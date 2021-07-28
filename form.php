@@ -91,7 +91,7 @@
                 <button type="submit" name="sub">Sign-Up</button>
                 <button type="reset">Reset</button>
                 <br>
-                <p>Have an account? <a href="login.html">Sign-In</a></p>
+                <p>Have an account? <a href="login.php">Sign-In</a></p>
             </form>
         </div>
     </div>
